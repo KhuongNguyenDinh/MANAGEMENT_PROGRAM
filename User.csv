@@ -1,0 +1,11 @@
+Role,ID,Name,Username,Address,Password
+Admin,1,A.Jefferson,1,LongAn,1
+Professor,1002,A.Alisa,1002,TPHCM,1
+Professor,1003,B.Thompson,1003,QuangNam,1
+Professor,1004,A.Lavigne,1004,HaNoi,1
+Professor,1005,T.Sawadi,1005,PhanThiet,1
+Student,1752001,N.Khuong,1752001,TPHCM,1
+Student,1752002,N.Nguyen,1752002,TPHCM,1
+Student,1752003,N.Khang,1752003,LongAn,1
+Student,1752004,Q.Truong,1752004,BaoLoc,1
+Student,1752005,T.Thien,1752005,DongNai,1
