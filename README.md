@@ -1,6 +1,6 @@
 # MANAGEMENT_PROGRAM
 Assignment from Fundamental programming class in August 21 , 2019. Personal work by Nguyen Dinh Khuong
-there are 9 file included:
+there are 9 files included:
 1) Assignment.cpp //// this is the source code.
 2) Assigment.exe /// this is the execution file.
 3) Course.csv /// this file stores information of the courses.
